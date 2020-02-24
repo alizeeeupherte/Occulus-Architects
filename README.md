@@ -5,13 +5,13 @@ I worked on the exterior and interior renovation of a listed building. Today it 
 This project is around the Lea Bridge area, London.
 
 
-![](1.png?raw=true)
-![](2.png?raw=true)
-![](3.png?raw=true)
-![](4.png?raw=true)
-![](5.png?raw=true)
-![](6.png?raw=true)
-![](7.png?raw=true)
+![](1.PNG?raw=true)
+![](2.PNG?raw=true)
+![](3.PNG?raw=true)
+![](4.PNG?raw=true)
+![](5.PNG?raw=true)
+![](6.PNG?raw=true)
+![](7.PNG?raw=true)
 ![](8.png?raw=true)
 ![](9.png?raw=true)
 ![](10.png?raw=true)
