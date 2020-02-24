@@ -5,16 +5,16 @@ I worked on the exterior and interior renovation of a listed building. Today it 
 This project is around the Lea Bridge area, London.
 
 
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
-![](photo?raw=true)
+![](1.png?raw=true)
+![](2.png?raw=true)
+![](3.png?raw=true)
+![](4.png?raw=true)
+![](5.png?raw=true)
+![](6.png?raw=true)
+![](7.png?raw=true)
+![](8.png?raw=true)
+![](9.png?raw=true)
+![](10.png?raw=true)
 
 
 I also worked on the Sketchup modeling of a district of Colchester for a future agency project and also as well as an interior design for a private client with a research around materials.
